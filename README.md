@@ -3,8 +3,6 @@ My first repository
 
 # Aftersun (2022)
 
-![Status](https://img.shields.io/badge/Favorite-Movie-blue)
-
 > A memory of a father and daughter's holiday, pieced together years later.
 
 ## About the Film
@@ -37,6 +35,6 @@ My first repository
 
 ---
 
-Read more on [Wikipedia](https://en.wikipedia.org/wiki/Aftersun_%28film%29).
+Read more on [Letterboxd](https://letterboxd.com/film/aftersun/).
 
 My Rating on Letterboxd: ⭐⭐⭐⭐⭐
